@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Dodoprospy3
 
-<!--
-**Dodoprospy3/Dodoprospy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student • Developer • Linux enthusiast
 
-Here are some ideas to get you started:
+I build things, break things, and occasionally figure out why they broke.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Linux & Hyprland 
+- Web development
+- Electronics
+- Programming
+- Open-source software
+
+## Currently learning
+
+- JavaScript
+- HTML and CSS
+- Systems programming
+- Linux internals
+
+## Tools
+
+Linux • Neovim • Git • GitHub
