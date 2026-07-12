@@ -14,6 +14,16 @@ Student • Developer • Linux enthusiast
 
 I build things, break things, and occasionally figure out why they broke.
 
+---
+
+<div align="center">
+  <img src="./assets/banner.png" width="800">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Dodoprospy3-986EF5?style=for-the-badge&labelColor=111827">
+</div>
+
 ## Interests
 
 - Linux & Hyprland 
