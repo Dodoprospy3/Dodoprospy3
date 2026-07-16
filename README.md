@@ -37,7 +37,6 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 - 🐧 Linux & Hyprland
 - 🌐 Web development
-- ⚡ Electronics
 - 💻 Programming
 - 🔓 Open-source software
 - 🖥️ Computer systems
