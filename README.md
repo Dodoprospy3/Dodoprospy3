@@ -47,6 +47,7 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 - JavaScript
 - HTML & CSS
+- python
 - Systems programming
 - Linux internals
 - Git & open-source workflows
