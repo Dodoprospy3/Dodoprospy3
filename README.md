@@ -14,7 +14,7 @@
 
 ---
 
-# 👋 Hello, I'm Dodoprospy3
+# Hello, I'm Dodoprospy3. Call me "Dops" for short
 
 > Student developer • Linux enthusiast • Open-source explorer • Professional bug creator
 
@@ -73,7 +73,7 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 </p>
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -82,7 +82,7 @@ Currently exploring programming, Linux, and how everything works behind the scen
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dodoprospy3&show_icons=true&hide_border=true&bg_color=00000000&title_color=986EF5&icon_color=986EF5">
 
 </div>
-
+-->
 ---
 
 <div align="center">
