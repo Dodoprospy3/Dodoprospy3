@@ -18,12 +18,14 @@
 
 > Student developer • Linux enthusiast • Open-source explorer • Professional bug creator
 
+I am the developer and maintainer of Oozy Linux (still working on the first version)
+
 I build things, break things, and occasionally figure out why they broke.
 
 I'm interested in understanding computers from **silicon to software**.  
 Currently exploring programming, Linux, and how everything works behind the scenes.
 
----
+<!-- ---
 
 <div align="center">
 
@@ -31,7 +33,7 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 </div>
 
----
+--- -->
 
 ## 🧠 Interests
 
