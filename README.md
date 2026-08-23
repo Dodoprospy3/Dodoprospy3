@@ -69,7 +69,7 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6">
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
+<!-- <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"> -->
 
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
 
