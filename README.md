@@ -18,7 +18,7 @@
 
 > Student developer • Linux enthusiast • Open-source explorer • Professional bug creator
 
-I am the developer and maintainer of Oozy Linux (still working on the first version)
+<!-- I am the developer and maintainer of Oozy Linux (still working on the first version) -->
 
 I build things, break things, and occasionally figure out why they broke.
 
