@@ -75,6 +75,22 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 </p>
 
+---
+
+<div align="center">
+
+i use arch, btw
+
+<br>
+
+-={~-------------------------------------------~}=-
+
+<br>
+
+i use neovim, btw
+
+</div>
+
 <!-- ---
 
 ## 📊 GitHub Stats
