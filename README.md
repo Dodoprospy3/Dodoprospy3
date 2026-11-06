@@ -37,7 +37,7 @@ Currently exploring programming, Linux, and how everything works behind the scen
 
 ## 🧠 Interests
 
-- 🐧 Linux & Hyprland
+- 🐧 Linux & Hyprland & Sway
 - 🌐 Web development
 - 💻 Programming
 - 🔓 Open-source software
@@ -48,7 +48,6 @@ Currently exploring programming, Linux, and how everything works behind the scen
 ## 📚 Currently learning
 
 - JavaScript
-- HTML & CSS
 - Systems programming
 - Linux internals
 - Git & open-source workflows
